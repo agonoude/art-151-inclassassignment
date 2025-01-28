@@ -14,7 +14,7 @@
   height:150px;
   background-color:red;
   border-radius:50%
-    margin: auto;
+/*margin: auto;*/
   position:fixed;
   color:pink;
   animation: bounce 10s infinite;
