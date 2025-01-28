@@ -6,7 +6,7 @@
   margin: auto;
   position:fixed;
   color:purple;
-  animation: bounce 10s infinite ease-out;
+  animation: bounce 10s infinite;
 }
 
 .bounce2{
@@ -17,7 +17,7 @@
     margin: auto;
   position:fixed;
   color:pink;
-  animation: bounce 10s infinite ease-out;
+  animation: bounce 10s infinite;
 }
 
 .bounce3{
@@ -28,7 +28,7 @@
   margin: auto;
   position:fixed;
   color:yellow;
-  animation: bounce 10s infinite ease-out;
+  animation: bounce 10s infinite;
 }
 
 
