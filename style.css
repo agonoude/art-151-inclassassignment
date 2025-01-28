@@ -8,6 +8,27 @@
   animation: bounce 10s infinite ease-out;
 }
 
+.bounce2{
+  width:150px;
+  height:150px;
+  background-color:red;
+  border-radius:50%
+  position:relative;
+  color:pink;
+  animation: bounce 10s infinite ease-out;
+}
+
+.bounce3{
+  width:100px;
+  height:100px;
+  background-color:green;
+  border-radius:50%
+  position:relative;
+  color:yellow;
+  animation: bounce 10s infinite ease-out;
+}
+
+
 @keyframes bounce{
   0%,100% {transform:translateY(0)}
   50%{transform:translateY(-50px);}
